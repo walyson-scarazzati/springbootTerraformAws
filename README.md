@@ -102,5 +102,5 @@ Instructor: Professor Davi
 
 ## 🧑‍💻 Author
 
-Developed by **[Your Name Here]** during the course for learning purposes.
+Developed by **Walyson Scarazzati da Silva** during the course for learning purposes.
 
